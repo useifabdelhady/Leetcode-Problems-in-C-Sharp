@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But don't ignore the Program.cs file
+!Program.cs
+
+
+# Don't ignore .gitignore
+!.gitignore
